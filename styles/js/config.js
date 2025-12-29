@@ -15,9 +15,9 @@ let charadex = {};
 /* Any preview links will still show Charadex's information
 /* ==================================================================== */
 charadex.site = {
-  title: "Vessels",
-  url: "https://vesselsarpg.github.io/Vessels-ARPG/",
-  description: `A Semi Open ARPG Species`
+  title: "Simulic",
+  url: "https://vesselsarpg.github.io/Simulic-ARPG/",
+  description: `An Alien ARPG Species`
 }
 
 /* ==================================================================== */
@@ -26,7 +26,7 @@ charadex.site = {
 /* ==================================================================== */
 charadex.sheet = {
 
-  id: "12DFQW0CeMbwKIFWkWwMia3HqxOMeK-tRdTkOA0wfHDQ",
+  id: "1Cl1ZkbV5l8ko2G7jIbz22xA1UCc2zWC9E9aAYuEtLnI",
 
   pages: {
     masterlist:    "masterlist",
@@ -45,10 +45,10 @@ charadex.sheet = {
 
     designTypes: ['All', 'Official Design', 'Guest Design', 'MYO Slot', 'MYO Design'],
     statuses: ['All', 'Resell', 'Trade', 'Gift', 'Voided', 'For Sale', 'Purchased'],
-    rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Very Rare', 'Legendary','Mutated', 'Parasite', 'Elemental', 'Alpha'],
-    species: ['All', 'Vessel', 'Simulic', 'Boon', 'Vegabond'],
+    rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Very Rare', 'Legendary','Mutated', 'Wastrel'],
+    species: ['All', 'Simulic', 'Vegabond'],
     itemTypes: ['All', 'Currency', 'MYO Slot', 'Pet', 'Trait', 'Misc'],
-    traitTypes: ['All', 'Ears', 'Eyes', 'Body', 'Limbs', 'Tails', 'Misc', 'Glider', 'Fault', 'Mutations']
+    traitTypes: ['All', 'Ears', 'Eyes', 'Body', 'Limbs', 'Tails', 'Misc', 'Fault', 'Mutations']
 
   }
 
