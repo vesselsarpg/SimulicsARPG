@@ -774,17 +774,17 @@ p:last-child {
 /* ============================================================= */
 
 .badge-common {
-  background-color: var(--cd-rarity-common-bg);
+  background-color: #20a200;
   color: var(--cd-rarity-common-txt);
 }
 
 .badge-uncommon {
-  background-color: var(--cd-rarity-uncommon-bg);
+  background-color: #00a4ae;
   color: var(--cd-rarity-uncommon-txt);
 }
 
 .badge-rare {
-  background-color: var(--cd-rarity-rare-bg);
+  background-color: #a56dff;
   color: var(--cd-rarity-rare-txt);
 }
 
@@ -795,6 +795,11 @@ p:last-child {
 
 .badge-legendary,
 .badge-mythic {
-  background-color: var(--cd-rarity-legendary-bg);
+  background-color: #ff3cb1;
   color: var(--cd-rarity-legendary-txt);
+}
+
+.badge-wastrel {
+  background-color: var(--cd-rarity-wastrel-bg);
+  color: var(--cd-rarity-wastrel-txt);
 }
