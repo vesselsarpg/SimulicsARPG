@@ -456,7 +456,7 @@ a:active {
 }
 
 .dropdown-item {
-  color: var(--cd-body-text-color) !important;
+  color: #99cf9c !important;
 }
 
 .dropdown-item:hover,
