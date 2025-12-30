@@ -48,7 +48,7 @@ body {
   --cd-faded-background-color: #585858;
 
   /* Background Extras */
-  --cd-body-background-image: url(https://f2.toyhou.se/file/f2-toyhou-se/images/112525287_cjfQI0UqlDqXPwe.jpg);
+  --cd-body-background-image: url("https://f2.toyhou.se/file/f2-toyhou-se/images/112525287_cjfQI0UqlDqXPwe.jpg");
 
   /* ============================================================= */
   /* Text
