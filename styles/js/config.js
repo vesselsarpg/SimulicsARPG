@@ -45,7 +45,7 @@ charadex.sheet = {
 
     designTypes: ['All', 'Official Design', 'Guest Design', 'MYO Slot', 'MYO Design'],
     statuses: ['All', 'Resell', 'Trade', 'Gift', 'Voided', 'For Sale', 'Purchased'],
-    rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Very Rare', 'Legendary','Mutated', 'Wastrel'],
+    rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Very Rare', 'Legendary', 'Mutated', 'Wastrel', 'Siphon', 'Lore-Breaking'],
     species: ['All', 'Simulic', 'Vegabond'],
     itemTypes: ['All', 'Currency', 'MYO Slot', 'Pet', 'Trait', 'Misc'],
     traitTypes: ['All', 'Ears', 'Eyes', 'Body', 'Limbs', 'Tails', 'Misc', 'Fault', 'Mutations']
