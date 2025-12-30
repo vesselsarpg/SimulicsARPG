@@ -43,6 +43,13 @@ body {
   /* ============================================================= */
   /* Backgrounds
   ================================================================ */
+  body {
+    background-image: url("https://f2.toyhou.se/file/f2-toyhou-se/images/112525287_cjfQI0UqlDqXPwe.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
   --cd-body-background-color: #121111;
   --cd-content-background-color: #333131;
   --cd-faded-background-color: #585858;
