@@ -800,8 +800,8 @@ p:last-child {
 }
 
 .badge-wastrel {
-  background-color: #1f112e;
-  color: var(--cd-rarity-wastrel-txt);
+  background-color: #c7b591;
+  color: #211b0f;
 }
 
 .badge-mutated {
