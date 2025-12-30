@@ -53,7 +53,7 @@ body {
 
   --cd-body-background-color: #121111;
   --cd-content-background-color: #333131;
-  --cd-faded-background-color: #585858;
+  --cd-faded-background-color: #13011fcf;
 
   /* Background Extras */
   --cd-body-background-image: url("https://f2.toyhou.se/file/f2-toyhou-se/images/112525287_cjfQI0UqlDqXPwe.jpg");
@@ -62,12 +62,12 @@ body {
   /* Text
   ================================================================ */
   --cd-body-text-color: #303030;
-  --cd-faded-text-color: #bcbaba;
+  --cd-faded-text-color: #9bd097;
 
   /* ============================================================= */
   /* Borders
   ================================================================ */
-  --cd-border-color: #474567a3;
+  --cd-border-color: #751371bf;
   --cd-border-width: 1px;
   --cd-border-style: solid;
   --cd-border-radius: 1rem;
@@ -137,10 +137,10 @@ body {
   ================================================================ */
 
   /* Background */
-  --cd-footer-background-color: var(--cd-navbar-background-color);
+  --cd-footer-background-color: #92a0c3d9;
 
   /* Link/Text */
-  --cd-footer-text-color: var(--cd-navbar-text-color);
+  --cd-footer-text-color: #ffffff;
   --cd-footer-link-color: var(--cd-navbar-link-color);
   --cd-footer-link-color-hover: var(--cd-navbar-link-color-hover);
 
@@ -473,7 +473,7 @@ a:active {
 /* ============================================================= */
 
 .card {
-  background-color: var(--cd-card-background-color) !important;
+  background-color: #35385c82 !important;
   border-width: var(--cd-card-border-width) !important;
   border-style: var(--cd-card-border-style) !important;
   border-color: var(--cd-card-border-color) !important;
